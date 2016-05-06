@@ -1,0 +1,2 @@
+# World-Projects
+I am using the world bank projects data API to build a data base of various projects. I have pulled 100 projects using the World Banks data projects API, what i need to do is pull unique data such as project id,  status, project Name, url, sector and country name into an sql data base. I have been able to use Json all the 100 projects and have also created a table in sql with all the column i need to populate. I need help in writing a code to pull the column i need There as 6 column and the rows should be 100 since i pulled 100 projects. 
